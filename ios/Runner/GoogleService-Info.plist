@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>912729450201-7iris7c4fm7nga515ei7hu4vcj2418tq.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.912729450201-7iris7c4fm7nga515ei7hu4vcj2418tq</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>912729450201-oquf146ppbsdgip03qtu2r52h734n6qd.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDkK4tsRTep-DeN8BR34AZwtS6tgCYg7l8</string>
+	<key>GCM_SENDER_ID</key>
+	<string>912729450201</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.coriumdata.wordel</string>
+	<key>PROJECT_ID</key>
+	<string>wordel-307c4</string>
+	<key>STORAGE_BUCKET</key>
+	<string>wordel-307c4.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:912729450201:ios:bf47bd443be9e03b2900c8</string>
+</dict>
+</plist>
